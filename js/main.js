@@ -4,7 +4,7 @@ $(function() {
 	//User Object
 	var User = {
 		title: '@Jessica',
-		img: '../images/jessica.jpg'
+		img: '/images/jessica.jpg'
 	}
 
 	//State management
